@@ -1,4 +1,4 @@
 Specs
 =====
 
-forked from qipost/sinaweibo-ios-sdk
+forked from CocoaPods/Specs
